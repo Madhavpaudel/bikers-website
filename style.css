@@ -81,13 +81,13 @@ header {
 .all{
     background-color: rgb(235, 237, 237);
     margin-top: 100px;
-    height: 104vh;
+    height: 120vh;
 }
 .secondbar {
     position:relative;
     top: 30px;
     display: flex;
-    margin-left: 90px;
+    justify-content: center;
 }
 
 .box1 {
@@ -194,7 +194,7 @@ header {
 }
 .second1box{
     display: flex;
-    margin-left: 90px;
+    justify-content: center;
     margin-top: 50px;
 }
 .box5{
